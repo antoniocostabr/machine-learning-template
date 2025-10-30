@@ -1,3 +1,5 @@
+awswrangler==3.13.0
+boto3==1.40.62
 matplotlib==3.10.7
 matplotlib-inline==0.2.1
 numpy==2.3.4
