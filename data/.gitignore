@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# Keep directories themselves (so the tree exists in Git)
+!*/
+
+# Keep keepers and docs
+!.gitkeep
+!.gitignore
+!README.md
+
+# …then selectively allow certain files (flat)
+!toy/*.csv
+!toy/*.txt
+!toy/*.parquet
+!toy/*.json

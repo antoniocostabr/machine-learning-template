@@ -1,0 +1,6 @@
+# Ignore everything by default
+*
+
+# Keep .gitignore and .gitkeep
+!.gitignore
+!.gitkeep

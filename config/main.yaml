@@ -1,0 +1,7 @@
+paths:
+  data: "./data"
+  models: "./models"
+
+run:
+  seed: 42
+  log_level: "INFO"
